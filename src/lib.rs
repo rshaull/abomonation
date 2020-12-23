@@ -456,6 +456,8 @@ array_abomonate!(29);
 array_abomonate!(30);
 array_abomonate!(31);
 array_abomonate!(32);
+array_abomonate!(4096);
+array_abomonate!(8192);
 
 impl Abomonation for String {
     #[inline]
